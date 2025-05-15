@@ -4,7 +4,7 @@
   "type": "module",
   "description": "",
   "devDependencies": {
-    "knip": "^5.39.2",
+    "knip": "^5.56.0",
     "typescript": "^5.7.2"
   },
   "keywords": [],
